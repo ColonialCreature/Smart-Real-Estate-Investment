@@ -79,6 +79,11 @@ streamlit run app.py
 
 ---
 
+## 📸 Project Snapshot
+![image](https://github.com/user-attachments/assets/be6f27c1-f894-43e4-9eb2-3d0538a4c5cd)
+
+---
+
 ## 🔒 License
 This project is open-source and available under the [MIT License](LICENSE).
 
